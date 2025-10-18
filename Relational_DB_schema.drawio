@@ -7,12 +7,15 @@
         <mxCell id="XAkEEadueyZbBo3X2ymv-1" value="AUTHOR (&lt;u&gt;AuthorID,&lt;/u&gt;&amp;nbsp;AuthorName, AuthorPhone, AuthorEmail, Expertise)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="170" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XAkEEadueyZbBo3X2ymv-2" value="AUTHOR ASSIGNMENT(&lt;u&gt;AuthorID,&lt;/u&gt;&amp;nbsp;AuthorPosition, AuthorType)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="210" width="390" height="30" as="geometry" />
+        <mxCell id="XAkEEadueyZbBo3X2ymv-6" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;dashPattern=1 1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="225" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XAkEEadueyZbBo3X2ymv-4" value="" style="elbow=vertical;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;edgeStyle=elbowEdgeStyle;exitX=0.41;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.206;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XAkEEadueyZbBo3X2ymv-2" target="XAkEEadueyZbBo3X2ymv-1">
+        <mxCell id="XAkEEadueyZbBo3X2ymv-2" value="AUTHOR ASSIGNMENT(&lt;u&gt;AuthorID,&lt;/u&gt;&amp;nbsp;AuthorPosition, AuthorType)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAkEEadueyZbBo3X2ymv-4" value="" style="elbow=vertical;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;edgeStyle=elbowEdgeStyle;entryX=0.206;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XAkEEadueyZbBo3X2ymv-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="230" as="sourcePoint" />
+            <mxPoint x="300" y="230" as="sourcePoint" />
             <mxPoint x="220" y="200" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
