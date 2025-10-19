@@ -26,12 +26,12 @@
           <mxGeometry x="330" y="205" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nhwhdmvn6pqlT2531rBD-2" value="CHAPTER (&lt;u&gt;ChapterID&lt;/u&gt;, ChapterNumber, ChapterTitle)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="250" width="650" height="30" as="geometry" />
+          <mxGeometry x="140" y="260" width="650" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nhwhdmvn6pqlT2531rBD-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.339;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XAkEEadueyZbBo3X2ymv-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="230" as="sourcePoint" />
-            <mxPoint x="230" y="260" as="targetPoint" />
+            <mxPoint x="230" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
