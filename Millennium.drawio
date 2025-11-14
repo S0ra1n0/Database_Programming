@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 OPR/123.0.0.0" version="28.2.7">
   <diagram name="Trang-1" id="BoYK4DthlqeBqjn8AfsY">
-    <mxGraphModel>
+    <mxGraphModel dx="806" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yjIgRZlOEdfPakcgMSfT-1" value="Student(&lt;u&gt;Student_ID&lt;/u&gt;, Student_name, Major)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yjIgRZlOEdfPakcgMSfT-2" value="Enrollment(&lt;u&gt;Enrollment_ID&lt;/u&gt;,&amp;nbsp;Student_ID, Class_ID, Semester, Academic_year, CGrade, IGrade)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yjIgRZlOEdfPakcgMSfT-3" value="Class(&lt;u&gt;Class_ID&lt;/u&gt;, Course_ID, Instructor_ID, Semester, Academic_year)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yjIgRZlOEdfPakcgMSfT-4" value="Instructor(&lt;u&gt;Instructor_ID&lt;/u&gt;, Instructor_name, Location)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="420" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yjIgRZlOEdfPakcgMSfT-5" value="Course(Course&lt;u&gt;_ID&lt;/u&gt;, Course_name)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yjIgRZlOEdfPakcgMSfT-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.348;exitY=0.887;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.344;entryY=0.105;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yjIgRZlOEdfPakcgMSfT-1" target="yjIgRZlOEdfPakcgMSfT-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="320" as="sourcePoint" />
+            <mxPoint x="430" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
